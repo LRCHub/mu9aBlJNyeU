@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "STAR☆T☆RAIN -New Arrange Ver.-",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2025-12-20T10:56:25.719948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN -New Arrange Ver.-",
+      "artist": "MEMちょ",
+      "has_synced": true,
+      "path": "select/01_STAR☆T☆RAIN_-New_Arrange_Ver.-_MEMちょ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN - New Arrange Ver.",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/02_STAR☆T☆RAIN_-_New_Arrange_Ver._B小町.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN - NEW ARRANGE VER.",
+      "artist": "B小町, ルビー",
+      "has_synced": true,
+      "path": "select/03_STAR☆T☆RAIN_-_NEW_ARRANGE_VER._B小町,_ルビー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN - NEW ARRANGE VER.",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/04_STAR☆T☆RAIN_-_NEW_ARRANGE_VER._B小町.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV.伊駒ゆりえ)、有馬かな(CV.潘めぐみ)、MEMちょ(CV.大久保瑠美)",
+      "has_synced": true,
+      "path": "select/05_STAR☆T☆RAIN_-New_Arrange_Ver.-_B小町_ルビー(CV.伊駒ゆりえ)、有馬かな(CV.潘めぐみ)、MEMちょ(CV.大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV：伊駒ゆりえ)、有馬かな(CV：潘めぐみ)、MEMちょ(CV：大久保瑠美)",
+      "has_synced": true,
+      "path": "select/06_STAR☆T☆RAIN_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN - New Arrange Ver.",
+      "artist": "B小町/ルビー(CV:伊駒ゆりえ)/有馬かな(CV:潘めぐみ)/MEMちょ(CV:大久保瑠美)",
+      "has_synced": true,
+      "path": "select/07_STAR☆T☆RAIN_-_New_Arrange_Ver._B小町_ルビー(CV_伊駒ゆりえ)_有馬かな(CV_潘めぐみ)_MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN -New Arrange Ver.-",
+      "artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+      "has_synced": true,
+      "path": "select/08_STAR☆T☆RAIN_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STAR☆T☆RAIN -New Arrange Ver.-",
+      "artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：藩めぐみ）、MEMちょ（CV：大久保瑠美）",
+      "has_synced": true,
+      "path": "select/09_STAR☆T☆RAIN_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_藩めぐみ)、MEMちょ(CV_大久保瑠美).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAR☆T☆RAIN -New Arrange Ver.-",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_STAR☆T☆RAIN_-New_Arrange_Ver.-_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
